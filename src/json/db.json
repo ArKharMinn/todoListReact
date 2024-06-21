@@ -1,0 +1,19 @@
+{
+  "todoList": [
+    {
+      "id": "1",
+      "task": "Clean Badroom",
+      "status": false
+    },
+    {
+      "id": "3",
+      "task": "Learn React",
+      "status": false
+    },
+    {
+      "id": "4",
+      "task": "Write Coding",
+      "status": false
+    }
+  ]
+}
